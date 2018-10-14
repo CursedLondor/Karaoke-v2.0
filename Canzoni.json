@@ -9,5 +9,95 @@
     "author" : "Cugini di Campagna",
     "numberofsingers" : "1",
     "sex" : "M"
+},
+{
+    "name" : "Cleptomania",
+    "author" : "Sugarfree",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "All Star",
+    "author" : "Smash Mouth",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "Barbie Girl",
+    "author" : "Aqua",
+    "numberofsingers" : "2",
+    "sex" : "MF"
+},
+{
+    "name" : "Monsoon",
+    "author" : "Tokio Hotel",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "Vieni da Me",
+    "author" : "Le Vibrazioni",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "La Canzone del Capitano",
+    "author" : "DJ Francesco",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "La Vasca",
+    "author" : "Alex Britti",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "Eh... già",
+    "author" : "Vasco Rossi",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "Il Pulcino Pio",
+    "author" : "Pulcino Pio",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "Non ti scordar mai di me",
+    "author" : "Giusy Ferreri",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+{
+    "name" : "Hanno ucciso l'uomo ragno",
+    "author" : "883",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "Svegliarsi la Mattina",
+    "author" : "Zero Assoluto",
+    "numberofsingers" : "2",
+    "sex" : "MM"
+},
+{
+    "name" : "Sei nell'Anima",
+    "author" : "Gianna Nannini",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+{
+    "name" : "Sarà perchè ti amo",
+    "author" : "Ricchi e Poveri",
+    "numberofsingers" : "2",
+    "sex" : "MF"
+},
+{
+    "name" : "Gelato al Cioccolato",
+    "author" : "Pupo",
+    "numberofsingers" : "1",
+    "sex" : "M"
 }
 ]
