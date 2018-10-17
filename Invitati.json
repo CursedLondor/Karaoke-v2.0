@@ -9,5 +9,49 @@
 {
     "name" : "Sara Gerloni",
     "sex" : "F"
+},
+{
+    "name" : "Silvia Sottile",
+    "sex" : "F"
+},
+{
+    "name" : "Andrea Scala",
+    "sex" : "M"
+},
+{
+    "name" : "Paola Mancuso",
+    "sex" : "F"
+},
+{
+    "name" : "Giulia Castagnolo",
+    "sex" : "F"
+},
+{
+    "name" : "Luigi Trovato",
+    "sex" : "M"
+},
+{
+    "name" : "Simone Termini",
+    "sex" : "M"
+},
+{
+    "name" : "Maurizio Mignosa",
+    "sex" : "M"
+},
+{
+    "name" : "Davide Mirto",
+    "sex" : "M"
+},
+{
+    "name" : "Biagio Fornitto",
+    "sex" : "M"
+},
+{
+    "name" : "Matteo Bonaccorso",
+    "sex" : "M"
+},
+{
+    "name" : "Mario Catania",
+    "sex" : "M"
 }
 ]
