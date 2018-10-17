@@ -71,4 +71,4 @@ while True:
         print("I cantanti sono finiti!")
         exit(0)
         
-    input()
+    raw_input()

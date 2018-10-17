@@ -1,4 +1,4 @@
-﻿[{
+[{
     "name" : "Felicita",
     "author" : "Al Bano & Romina",
     "numberofsingers" : "2",
@@ -97,12 +97,6 @@
 {
     "name" : "Gelato al Cioccolato",
     "author" : "Pupo",
-    "numberofsingers" : "1",
-    "sex" : "M"
-},
-{
-    "name" : "Never Gonna Give you up",
-    "author" : "Rick Astley",
     "numberofsingers" : "1",
     "sex" : "M"
 }
