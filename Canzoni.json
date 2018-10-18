@@ -518,5 +518,17 @@
     "author" : "Cristina d'avena",
     "numberofsingers" : "1",
     "sex" : "F"
+},
+{
+    "name" : "Oro",
+    "author" : "Mango",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "Alghero",
+    "author" : "Giuni Russo",
+    "numberofsingers" : "1",
+    "sex" : "F"
 }
 ]
