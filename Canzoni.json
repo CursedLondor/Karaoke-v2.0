@@ -105,5 +105,220 @@
     "author" : "Rick Astley",
     "numberofsingers" : "1",
     "sex" : "M"
-}
+},
+ 
+{
+    "name" : "Su di noi",
+    "author" : "Pupo",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ 
+{
+    "name" : "Tanto tanto tanto",
+    "author" : "Jovanotti",
+    "numberofsingers" : "2",
+    "sex" : "MM"
+},
+ 
+{
+    "name" : "Sarà perchè ti amo",
+    "author" : "Ricchi e poveri",
+    "numberofsingers" : "2",
+    "sex" : "MF"
+},
+ 
+{
+    "name" : "Ma il cielo è sempre più blu",
+    "author" : "Rino Gaetano",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ 
+{
+    "name" : "Nostalgia Canaglia",
+    "author" : "Al Bano e Romina Power",
+    "numberofsingers" : "2",
+    "sex" : "MF"
+},
+ 
+{
+    "name" : "Maracaibo",
+    "author" : "Luisa Lu Colombo",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ 
+{
+    "name" : "Il triangolo",
+    "author" : "Renato Zero",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ 
+{
+    "name" : "Donatella",
+    "author" : "Donatella Rettore",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ 
+{
+    "name" : "Tu sei l'unica donna per me",
+    "author" : "Alan Sorrenti",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ 
+{
+    "name" : "Comprami",
+    "author" : "Viola Valentino",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ 
+{
+    "name" : "Balla",
+    "author" : "Umberto Balsamo",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+{
+    "name" : "Ballo Ballo",
+    "author" : "Raffaella Carrà",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Com'è bello far l'amore",
+    "author" : "Raffaella Carrà",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "A far l'amore comincia tu",
+    "author" : "Raffaella Carrà",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Pedro",
+    "author" : "Raffaella Carrà",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Siamo Donne",
+    "author" : "Sabrina Salerno e l'altra",
+    "numberofsingers" : "2",
+    "sex" : "FF"
+},
+ {
+    "name" : "Kobra",
+    "author" : "Donatella Rettore",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Maledetta Primavera",
+    "author" : "çLoretta Goggi",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Gianna",
+    "author" : "Rino Gaetano",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "La notte vola",
+    "author" : "Lorella Cuccarini",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Per Colpa di Chi",
+    "author" : "Zucchero",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "Baila Morena",
+    "author" : "Zucchero",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "Un Cuore Malato",
+    "author" : "Gigi d'Alessio e l'altra",
+    "numberofsingers" : "2",
+    "sex" : "MF"
+},
+ {
+    "name" : "Hanno ucciso l'uomo ragno",
+    "author" : "883",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "Ti amo",
+    "author" : "Umberto Tozzi",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "Gloria",
+    "author" : "Umberto Tozzi",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "I Watussi",
+    "author" : "Edoardo Vianello",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "L'ombelico del mondo",
+    "author" : "Jovanotti",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "Penso positivo",
+    "author" : "Jovanotti",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "Non sono una signora",
+    "author" : "Loredana Bertè",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Una ragione di più",
+    "author" : "Ornella vanoni",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "E la luna bussò",
+    "author" : "Loredana bertè",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Sandokan",
+    "author" : "Oliver Onions",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "Se mi lasci non vale",
+    "author" : "Julio Iglesias",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
 ]
