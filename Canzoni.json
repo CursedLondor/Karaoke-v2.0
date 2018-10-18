@@ -507,4 +507,16 @@
     "numberofsingers" : "1",
     "sex" : "M"
 },
+ {
+    "name" : "Alghero",
+    "author" : "Giuni Russo",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Mila e Shiro",
+    "author" : "Cristina d'avena",
+    "numberofsingers" : "1",
+    "sex" : "F"
+}
 ]
