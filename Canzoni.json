@@ -544,6 +544,30 @@
     "sex" : "F"
 },
  {
+    "name" : "Il Ragazzo della via Gluck",
+    "author" : "Adriano Celentano",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "Domani è un altro giorno si vedrà",
+    "author" : "Ornella Vanoni",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Don Raffaè",
+    "author" : "Fabrizio De Andrè",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Africa",
+    "author" : "Toto",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
     "name" : "Fischia il vento",
     "author" : "Modena City Ramblers",
     "numberofsingers" : "1",
