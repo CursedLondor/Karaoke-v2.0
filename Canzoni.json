@@ -358,10 +358,10 @@
     "sex" : "MM"
 },
  {
-    "name" : "",
-    "author" : "Umberto Balsamo",
-    "numberofsingers" : "1",
-    "sex" : "M"
+    "name" : "Che Sarà",
+    "author" : "Ricchi e Poveri",
+    "numberofsingers" : "2",
+    "sex" : "MF"
 },
  {
     "name" : "Donna con te",
@@ -370,20 +370,14 @@
     "sex" : "F"
 },
  {
-    "name" : "Balla",
-    "author" : "Umberto Balsamo",
-    "numberofsingers" : "1",
-    "sex" : "M"
+    "name" : "Voulez vous dancer",
+    "author" : "Ricchi e Poveri",
+    "numberofsingers" : "2",
+    "sex" : "MF"
 },
  {
     "name" : "La mia banda suona il rock",
     "author" : "Ivano Fossati",
-    "numberofsingers" : "1",
-    "sex" : "M"
-},
- {
-    "name" : "Erba di casa mia",
-    "author" : "Massimo Ranieri",
     "numberofsingers" : "1",
     "sex" : "M"
 },
@@ -406,8 +400,8 @@
     "sex" : "MM"
 },
  {
-    "name" : "Balla",
-    "author" : "Umberto Balsamo",
+    "name" : "Azzurro",
+    "author" : "Adriano Celentano",
     "numberofsingers" : "1",
     "sex" : "M"
 },
@@ -418,8 +412,8 @@
     "sex" : "F"
 },
  {
-    "name" : "Balla",
-    "author" : "Umberto Balsamo",
+    "name" : "Soli",
+    "author" : "Adriano Celentano",
     "numberofsingers" : "1",
     "sex" : "M"
 },
@@ -496,10 +490,10 @@
     "sex" : "M"
 },
  {
-    "name" : "Dio è morto",
-    "author" : "Nomadi",
-    "numberofsingers" : "1",
-    "sex" : "M"
+    "name" : "Fatti più in là",
+    "author" : "Sorelle Bandiera",
+    "numberofsingers" : "2",
+    "sex" : "MF"
 },
  {
     "name" : "I migliori anni della nostra vita",
@@ -518,6 +512,24 @@
     "author" : "Cristina d'avena",
     "numberofsingers" : "1",
     "sex" : "F"
+},
+ {
+    "name" : "Ufo Robot",
+    "author" : "Actarus",
+    "numberofsingers" : "1",
+    "sex" : "F"
+},
+ {
+    "name" : "Geeg Robot",
+    "author" : "Sigla",
+    "numberofsingers" : "1",
+    "sex" : "M"
+},
+ {
+    "name" : "L'uomo tigre",
+    "author" : "I cavalieri del re",
+    "numberofsingers" : "1",
+    "sex" : "M"
 },
 {
     "name" : "Oro",
