@@ -1,576 +1,576 @@
 [{
     "name" : "Felicita",
     "author" : "Al Bano & Romina",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MF"
 },
 {
     "name" : "Anima Mia",
     "author" : "Cugini di Campagna",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Cleptomania",
     "author" : "Sugarfree",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "All Star",
     "author" : "Smash Mouth",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Barbie Girl",
     "author" : "Aqua",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MF"
 },
 {
     "name" : "Monsoon",
     "author" : "Tokio Hotel",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Vieni da Me",
     "author" : "Le Vibrazioni",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "La Canzone del Capitano",
     "author" : "DJ Francesco",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "La Vasca",
     "author" : "Alex Britti",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Eh... già",
     "author" : "Vasco Rossi",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Il Pulcino Pio",
     "author" : "Pulcino Pio",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Non ti scordar mai di me",
     "author" : "Giusy Ferreri",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
 {
     "name" : "Hanno ucciso l'uomo ragno",
     "author" : "883",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Svegliarsi la Mattina",
     "author" : "Zero Assoluto",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MM"
 },
 {
     "name" : "Sei nell'Anima",
     "author" : "Gianna Nannini",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
 {
     "name" : "Sarà perchè ti amo",
     "author" : "Ricchi e Poveri",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MF"
 },
 {
     "name" : "Gelato al Cioccolato",
     "author" : "Pupo",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Never Gonna Give You Up",
     "author" : "Rick Astley",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 
 {
     "name" : "Su di noi",
     "author" : "Pupo",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  
 {
     "name" : "Tanto tanto tanto",
     "author" : "Jovanotti",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MM"
 },
  
 {
     "name" : "Sarà perchè ti amo",
     "author" : "Ricchi e poveri",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MF"
 },
  
 {
     "name" : "Ma il cielo è sempre più blu",
     "author" : "Rino Gaetano",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  
 {
     "name" : "Nostalgia Canaglia",
     "author" : "Al Bano e Romina Power",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MF"
 },
  
 {
     "name" : "Maracaibo",
     "author" : "Luisa Lu Colombo",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  
 {
     "name" : "Il triangolo",
     "author" : "Renato Zero",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  
 {
     "name" : "Donatella",
     "author" : "Donatella Rettore",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  
 {
     "name" : "Tu sei l'unica donna per me",
     "author" : "Alan Sorrenti",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  
 {
     "name" : "Comprami",
     "author" : "Viola Valentino",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  
 {
     "name" : "Balla",
     "author" : "Umberto Balsamo",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Ballo Ballo",
     "author" : "Raffaella Carrà",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Com'è bello far l'amore",
     "author" : "Raffaella Carrà",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "A far l'amore comincia tu",
     "author" : "Raffaella Carrà",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Pedro",
     "author" : "Raffaella Carrà",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Siamo Donne",
     "author" : "Sabrina Salerno e l'altra",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "FF"
 },
  {
     "name" : "Kobra",
     "author" : "Donatella Rettore",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Maledetta Primavera",
     "author" : "çLoretta Goggi",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Gianna",
     "author" : "Rino Gaetano",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "La notte vola",
     "author" : "Lorella Cuccarini",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Per Colpa di Chi",
     "author" : "Zucchero",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Baila Morena",
     "author" : "Zucchero",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Un Cuore Malato",
     "author" : "Gigi d'Alessio e l'altra",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MF"
 },
  {
     "name" : "Hanno ucciso l'uomo ragno",
     "author" : "883",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Ti amo",
     "author" : "Umberto Tozzi",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Gloria",
     "author" : "Umberto Tozzi",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "I Watussi",
     "author" : "Edoardo Vianello",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "L'ombelico del mondo",
     "author" : "Jovanotti",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Penso positivo",
     "author" : "Jovanotti",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Non sono una signora",
     "author" : "Loredana Bertè",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Una ragione di più",
     "author" : "Ornella vanoni",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "E la luna bussò",
     "author" : "Loredana bertè",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Sandokan",
     "author" : "Oliver Onions",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Se mi lasci non vale",
     "author" : "Julio Iglesias",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Cicale",
     "author" : "Heather Parisi",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Montagne Verdi",
     "author" : "Marcella Bella",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Cuore Matto",
     "author" : "Little Tony",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Mamma maria",
     "author" : "Ricchi e Poveri",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Piccola Katy",
     "author" : "Pooh",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MM"
 },
  {
     "name" : "Dammi solo un minuto",
     "author" : "Pooh",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MM"
 },
  {
     "name" : "Che Sarà",
     "author" : "Ricchi e Poveri",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MF"
 },
  {
     "name" : "Donna con te",
     "author" : "Anna Oxa",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Voulez vous dancer",
     "author" : "Ricchi e Poveri",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MF"
 },
  {
     "name" : "La mia banda suona il rock",
     "author" : "Ivano Fossati",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Perdere l'amore",
     "author" : "Massimo Ranieri",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Teorema",
     "author" : "Marco Ferradini",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Una ragazza in 2",
     "author" : "I giganti",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MM"
 },
  {
     "name" : "Azzurro",
     "author" : "Adriano Celentano",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Amore disperato",
     "author" : "Nada",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Soli",
     "author" : "Adriano Celentano",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Un'estate al mare",
     "author" : "Giuni Russo",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "L'esercito del selfie",
     "author" : "Lorenzo fragola e Arisa",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MF"
 },
  {
     "name" : "Lamette",
     "author" : "Donatella rettore",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Il gatto e la volpe",
     "author" : "Edoardo Bennato",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Non voglio mica la luna",
     "author" : "Fiordaliso",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Nessuno mi può giudicare",
     "author" : "Caterina Caselli",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Noi, Ragazzi di oggi",
     "author" : "Luis Miguel",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Il ballo del mattone",
     "author" : "Rita Pavone",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "A far l'amore comincia tu",
     "author" : "Raffaella Carrà",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Centro di Gravità Permanente",
     "author" : "Franco Battiato",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Quella Carezza della sera",
     "author" : "New Trolls",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Io Vagabondo",
     "author" : "Nomadi",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Fatti più in là",
     "author" : "Sorelle Bandiera",
-    "numberofsingers" : "2",
+    "numberOfSingers" : "2",
     "sex" : "MF"
 },
  {
     "name" : "I migliori anni della nostra vita",
     "author" : "Renato Zero",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Alghero",
     "author" : "Giuni Russo",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Mila e Shiro",
     "author" : "Cristina d'avena",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Ufo Robot",
     "author" : "Actarus",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Geeg Robot",
     "author" : "Sigla",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "L'uomo tigre",
     "author" : "I cavalieri del re",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Oro",
     "author" : "Mango",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
 {
     "name" : "Alghero",
     "author" : "Giuni Russo",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Il Ragazzo della via Gluck",
     "author" : "Adriano Celentano",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 },
  {
     "name" : "Domani è un altro giorno si vedrà",
     "author" : "Ornella Vanoni",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Don Raffaè",
     "author" : "Fabrizio De Andrè",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Africa",
     "author" : "Toto",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "F"
 },
  {
     "name" : "Fischia il vento",
     "author" : "Modena City Ramblers",
-    "numberofsingers" : "1",
+    "numberOfSingers" : "1",
     "sex" : "M"
 }
 ]
